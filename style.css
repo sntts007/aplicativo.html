@@ -9,7 +9,7 @@
     
     .bg-gradient {background: linear-gradient(to right,#ce2e3c,#008000);}
     .bg-black {background-color: #030000; }
-    .bg-white {background-color: #009ee2;}
+    .bg-white {background-color: #b04e89;}
     
     .radius {border-radius: 7px;}
     /* CABEÇALHO */
@@ -21,7 +21,7 @@
     .btn-close {font-size: 1.5em; color: #000000; float: right; cursor: pointer; margin: 2% 3% 0 0;}
     .menu ul {width: 100%; float: left; text-align: center;}
     .menu li {padding: 1.5%;}
-    .menu li a {font-size: 2em; color: #4fcaff; padding: 1.5% 3%;}
+    .menu li a {font-size: 2em; color: #b04e89 padding: 1.5% 3%;}
     .menu li a:hover {border:1px solid #da6709;}
     /* BANNER */
     .banner {background: url(../img/banner1.jpg) no-repeat fixed;}
@@ -32,7 +32,7 @@
     .buttons i {float: right;}
     .btn {width: 100%; font-size: 1.5em; text-align: left; cursor: pointer; padding: 5%; }
     .btn-cadastrar { color: #130400;}
-    .btn-sobre {color:#00b3ff ; margin-top: 2%;}
+    .btn-sobre {color:#b04e89; margin-top: 2%;}
     /* SERVIÇOS */
     .servico {width: 100%;  text-align: left;  margin-bottom: 3%;}
     .servico img {border-radius: 7px 7px 0 0;}
@@ -42,9 +42,9 @@
     .inner p {margin-top: 6%; color: #130400; line-height: 1.5em;}
     /* NEWSLETTER */
     .newsletter h2 {font-size: 1.5em; color: #007187; font-weight: 700;}
-    .newsletter h3 {color: #00b3ff ;}
+    .newsletter h3 {color: #b04e89 ;}
     .newsletter form {margin-top: 2%;}
-    .newsletter input {width: 100%;  color: #00b3ff ; border: 1px solid rgba(255,255,255,0.3); padding: 5%; }
+    .newsletter input {width: 100%;  color: #b04e89; border: 1px solid rgba(255,255,255,0.3); padding: 5%; }
     .newsletter button {width: 100%;  color:#130400; padding: 5%; cursor: pointer; margin-top: 2%; }
     /* RODAPÉ */
     .social-icons a {font-size: 1.5em; color: rgba(255,255,255,0.7); margin-right: 3%;}
@@ -82,7 +82,7 @@
     @media screen and (min-width: 1280px){}
     .btn-menu {display: none;}
     .btn-close {display: none;}
-    .menu {width: auto; height: 56px; line-height: 56px; float: right; background-color: #00b3ff ; 
+    .menu {width: auto; height: 56px; line-height: 56px; float: right; background-color: #b04e89; 
     display: block !important; position: static;}
     .menu li {padding: 0; float: left;}
     .menu li a {color:#130400; font-size: 1em; padding: 15px; }
